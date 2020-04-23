@@ -3,7 +3,7 @@ def find_max_value(array)
   return array[-1]
 end
 
-or
+# or
 
 def find_max_value(array)
   i = 0 
